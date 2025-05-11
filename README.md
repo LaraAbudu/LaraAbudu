@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaraAbudu
+- 👋 Hi, I’m LaraAbudu
 - 👀 I’m interested in cybersecurity projects
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate with security professionals
